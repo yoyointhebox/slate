@@ -39,7 +39,7 @@ notice here
 
 # APIs
 
-## Get 
+## 確認權限
 
 > The above command returns JSON structured like this:
 
